@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "keywords": [
+    "game"
+  ],
+  "homepage": "https://github.com/ElderT3/defender-game#readme",
+  "bugs": {
+    "url": "https://github.com/ElderT3/defender-game/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElderT3/defender-game.git"
+  },
+  "license": "ISC",
+  "author": "ElderT3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
